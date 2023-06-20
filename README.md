@@ -11,6 +11,9 @@ Dalam hal ini, tujuan saya adalah memenuhi kebutuhan klien dengan menciptakan ke
 ### 1. Desain rapi mengikuti kaidah atau prinsip desain:
 Desain website ini mengusung tema roti yang menggoda dengan dominasi warna krem. Warna krem dipilih untuk menciptakan suasana yang hangat dan nyaman bagi pengunjung. Kesederhanaan dan kelembutan warna ini memperlihatkan dedikasi kami dalam menyajikan produk roti terbaik untuk Pelanggan. Sebagai nuansa yang lembut, krem juga melambangkan kesopanan dan kebaikan yang kami anut dalam berbisnis. Dengan kombinasi yang harmonis, kami berharap website ini dapat mengundang selera Anda untuk menjelajahi dan menikmati kelezatan roti kami. Selamat datang di dunia roti krem yang menggugah selera!
 
+![image](https://github.com/DraganAbrisamWidijanto/DraganAbrisamWidijanto-UASPPW1_22-505608-SV-21834_DragonBakery/assets/112307731/b5ceb5bf-e725-4db6-93e3-273613bfb59d)
+
+
 Berikut ini merupakan contoh beberapa warna yang saya gunakan untuk mmebuat website Dragon Bakery:
 
 ```css
@@ -69,6 +72,10 @@ We will contact you directly via WhatsApp with your phone number ZZZZZ in a few 
 
 untuk X adalah nama, Y adalah order id dan Z adalah nomor telepon
 ```
+dan data pada kolom form akan terhapus.
+
+![image](https://github.com/DraganAbrisamWidijanto/DraganAbrisamWidijanto-UASPPW1_22-505608-SV-21834_DragonBakery/assets/112307731/b5a90f5b-849c-4a9e-bf12-734ce0354f0e)
+
 
 Berikut ini merupakan kode untuk membuat feedback ke pengguna website:
 
@@ -137,7 +144,12 @@ Dengan menggunakan kode tersebut, pengguna dapat mengisi formulir, dan setelah p
 
 
 ### 4. Konten dinamis dari database.
-Konten dinamis yang saya gunakan berasal dari data order, ketika di submit maka akan masuk ke database. Dari database tersebut akan ditampilkan 5 data terbaru yang masuk ke database. data yang akan ditampilkan adalah nama dan order id. data tersebut ditampilkan didalam box yang ada. berikut ini merupakan kode untuk memasukkan data ke database:
+Konten dinamis yang saya gunakan berasal dari data order, ketika di submit maka akan masuk ke database. Dari database tersebut akan ditampilkan 5 data terbaru yang masuk ke database. data yang akan ditampilkan adalah nama dan order id. data tersebut ditampilkan didalam box yang ada. 
+
+![image](https://github.com/DraganAbrisamWidijanto/DraganAbrisamWidijanto-UASPPW1_22-505608-SV-21834_DragonBakery/assets/112307731/aa871b1d-0b4b-47de-830f-b39e48f3a98a)
+
+
+berikut ini merupakan kode untuk memasukkan data ke database:
 
 -- proses.php :
 ```php
